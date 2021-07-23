@@ -26,7 +26,7 @@ h3{
 
 .cloud-top {
 position: absolute;
-right: 100px;
+right: 250px;
 top:30px;
 }
 .skill-row{
@@ -37,7 +37,7 @@ top:30px;
 
 .cloud-middle{
   position: absolute;
-  left:20px;
+  left:130px;
   top:30%;
 }
 .self
@@ -76,7 +76,8 @@ hr{
 }
   .footer-link{
     margin:20px;
-    color:#ff9a00;
+    color:#FFD523;
+    font-size: large;
     text-decoration: none;
     font-family:  'Merriweather', serif;
   }
